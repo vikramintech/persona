@@ -1,2 +1,5 @@
-# persona
-My original portfolio 
+# neurolab-nodejs
+
+Command to run server.js file:
+
+```node server.js```
