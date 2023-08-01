@@ -1932,6 +1932,7 @@ ol {
     }
     
 }
+
 @media (max-width: 425px) {
     .about-area .about-me-box .infos h1 {
         font-size: 30px;
@@ -1969,4 +1970,11 @@ ol {
     .blog-details-area .blog-details-content .comments-and-form-wrap .comments .children {
         padding-left: 0;
     }
+    
+}
+
+/* My Custom Classes */
+
+.disc-list{
+    list-style: disc;
 }
